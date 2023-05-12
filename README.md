@@ -66,10 +66,10 @@ State | Definitions of Abortion/ITOP | Definition Source
 <strong>Wisconsin </strong>  | In Wis. Stat. § 69.186, the term “induced abortion” means: The termination of a uterine pregnancy by a physician of a woman known by the physician to be pregnant, for a purpose other than to produce a live birth or to remove a dead fetus. | [Reported Induced Abortions | Wisconsin Department of Health Services ] (https://www.dhs.wisconsin.gov/stats/itop.htm ) |
 <strong> Wyoming</strong>  | "Abortion" means an act, procedure, device or prescription administered to or prescribed for a pregnant woman by any person with knowledge of the pregnancy, including the pregnant woman herself, with the intent of producing the premature expulsion, removal or termination of a human embryo or fetus, except that in cases in which the viability of the embryo or fetus is threatened by continuation of the pregnancy, early delivery after viability by commonly accepted obstetrical practices shall not be construed as an abortion | [https://casetext.com/statute/wyoming-statutes/title-35-public-health-and-safety/chapter-6-abortions/section-35-6-101-definitions ] (https://casetext.com/statute/wyoming-statutes/title-35-public-health-and-safety/chapter-6-abortions/section-35-6-101-definitions ) |
  
-##Data Entry/Data Quality
+##<u>Data Entry/Data Quality </u>
 Each day, volunteer interns on the Maternal Health Team will help us browse and document Induced Terminations of Pregnancy (ITOP) cases at the county level and by the categorical breakdowns listed in the Data Inventory. Interns will be on the weekly rotation schedule to switch from data entry and data quality task to ensure all data are entered accurately and timely. During data entry week, interns will be browsing through primary source and transfer/document those number into the state spreadsheet. During data quality week, interns will confirming of completion of the spreadsheet, determine the accuracy of the data entered, and fix any errors that they have find.
 
-##Data Source
+## <u>Data Source </u>
 Interns collect data from health department sites at both state and county levels, listed
 breakdown below:
 
@@ -128,7 +128,7 @@ State | Maternal Health Data Links(double-checked via  [https://abort73.com/abor
 <strong>Wisconsin </strong>  | [https://www.dhs.wisconsin.gov/stats/itop.htm ] (https://www.dhs.wisconsin.gov/stats/itop.htm )
 <strong>Wyoming </strong>  | [https://health.wyo.gov/admin/vitalstatistics/reports/ ] (https://health.wyo.gov/admin/vitalstatistics/reports/ )
  
-##Methodology
+##<u>Methodology </u>
 ### <u>Challenges:</u>
 As seen in the  list above, states are unique in both how they report their data and what data they report. 
 ### <u>UNREPORTED DATA (OR NOT REPORTED):</u>
