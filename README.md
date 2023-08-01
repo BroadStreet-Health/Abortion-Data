@@ -146,5 +146,5 @@ In order to ensure accurate reporting of data, we avoided using zeros in our dat
 When using data images, downloaded data, or shared document formats, please attribute BroadStreet as well as the original source, when applicable. For examples and more information, review this article which answers the question  ["How do I cite BroadStreet?"](https://help.broadstreet.io/article/citations/)
  
 ##Contributors
-[Tom Schmitt, PhD](https://www.linkedin.com/company/broadstreet-institute/), [Tracy Flood, MD, PhD](https://www.linkedin.com/in/tracy-flood-md-phd/),  [Fu Zeng, MPH](https://www.linkedin.com/in/fuzeng/), Sarwat Siddiqui, [Brenna Jarvis, MPH](https://www.linkedin.com/in/brenna-jarvis-88b4351b6/), Devin
-Friedman, MPH, Shifa Lakhani, MPH. A full list of the Broadstreet Covid-19 Data Project volunteers can be found here: [https://covid19dataproject.org/team-2/](https://covid19dataproject.org/team-2/) 
+Sarwat Siddiqui, [Brenna Jarvis, MPH](https://www.linkedin.com/in/brenna-jarvis-88b4351b6/), [Fu Zeng, MPH](https://www.linkedin.com/in/fuzeng/), Devin
+Friedman, MPH, [Tracy Flood, MD, PhD](https://www.linkedin.com/in/tracy-flood-md-phd/). A full list of the Broadstreet Covid-19 Data Project volunteers can be found here: [https://covid19dataproject.org/team-2/](https://covid19dataproject.org/team-2/) 
