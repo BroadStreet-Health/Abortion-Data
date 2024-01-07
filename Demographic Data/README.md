@@ -1,8 +1,9 @@
-Deomogrphic Data
+# <u>Demographic Data</u>
 
 This folders contains demogrphic data and the different variables is shown as breakdown below:
 
-Race
+
+## <u>Race</u>
  Variable | Definition
 ------------- | ------------- 
 |race_API | the number of abortions reported for race API|
