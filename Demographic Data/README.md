@@ -88,12 +88,68 @@ ethn_NHL | the number of abortions reported for Not Hispanic/Latina
 ## <u>page Age</u>
  Variable | Definition
 ------------- | -------------  
-page_<15_2021	page_1517_2021	page_1819_2021	page_D_2021	page_E_2021	page_F_2021	page_G_2021	page_H_2021	page_I_2021	page_U_2021	page_1014_2021	page_1519_2021	page_18_U_2021	page_NS_2021	page_<=19_2021	page_20_2021	page_29_2021	page_30+_2021	page_4555_2021	page_NDF_2021	page_40+_2021	page_20_U_2021	page_14_U_2021	page_35+_2021	page_1516_2021	page_1719_2021	page_AA_2021	page_<20_2021	page_24_L_2021	page_2534_2021	page_40+_2021	page_NR_2021	page_>15_2021	page_1517_2021	page_1819_2021	page_2024_2021	page_2529_2021	page_3034_2021	page_3539_2021	page_4044_2021	page_4555_2021	page_017_2021	page_11_L_2021	page_1213_2021	page_>=35_2021	page_15_2021	page_16_2021	page_17_2021	page_18_2021	page_19_2021	page_4054_2021	page_15_U_2021	page_45_O_2021	page_10_L_2021	page_1014_2021	page_40_2021	
+page_<15 | the number of abortions reported for page Age <15
+page_1517 | the number of abortions reported for page Age 15-17
+page_1819 | the number of abortions reported for page Age 18-19
+page_D | the number of abortions reported for page Age 20-24
+page_E | the number of abortions reported for page Age 25-29
+page_F | the number of abortions reported for page Age 30-34
+page_G | the number of abortions reported for page Age 35-39
+page_H | the number of abortions reported for page Age 40-44
+page_I | the number of abortions reported for page Age 45+
+page_U | the number of abortions reported for page Unknown Age 
+page_1014 | the number of abortions reported for page Age 10-14
+page_1519 | the number of abortions reported for page Age 15-19
+page_18_U | the number of abortions reported for page Age Under 18
+page_NS | the number of abortions reported for page Age Not Stated
+page_<=19 | the number of abortions reported for	page Age <=19
+page_20 | the number of abortions reported for page Age 20
+page_29 | the number of abortions reported for page Age 29
+page_30+ | the number of abortions reported for page Age 30+
+page_4555 | the number of abortions reported for page Age 45-55
+page_NDF | the number of abortions reported for No page Age data found
+page_40+ | the number of abortions reported for page Age 40+
+page_20_U | the number of abortions reported for page Age Under 20
+page_14_U | the number of abortions reported for page Age Under 14
+page_35+ | the number of abortions reported for page Age 35 +
+page_1516 | the number of abortions reported for page Age 15-16
+page_1719 | the number of abortions reported for page Age 17-19
+page_AA | the number of abortions reported for page Age all ages
+page_<20 | the number of abortions reported for page Age <20
+page_24_L | the number of abortions reported for page Age 24 or less
+page_2534 | the number of abortions reported for page Age 25-34
+page_40+ | the number of abortions reported for page Age 40+
+page_NR | the number of abortions reported for page Age Not reported
+page_>15 | the number of abortions reported for page Age >15
+page_1517 | the number of abortions reported for page Age 15-17
+page_1819 | the number of abortions reported for page Age 18-19
+page_2024 | the number of abortions reported for page Age 20-24
+page_2529 | the number of abortions reported for page Age 25-29
+page_3034 | the number of abortions reported for page Age 30-34
+page_3539 | the number of abortions reported for page Age 35-39
+page_4044 | the number of abortions reported for page Age 40-44
+page_4555 | the number of abortions reported for page Age 45+
+page_017 | the number of abortions reported for page Age 0-17
+page_11_L | the number of abortions reported for page Age 11 years or less
+page_1213 | the number of abortions reported for page Age 12-13 years
+page_>=35 | the number of abortions reported for page Age >=35
+page_15 | the number of abortions reported for page Age 15
+page_16 | the number of abortions reported for page Age 16
+page_17 | the number of abortions reported for page Age 17
+page_18 | the number of abortions reported for page Age 18
+page_19 | the number of abortions reported for page Age 19
+page_4054 | the number of abortions reported for page Age 40-54
+page_15_U | the number of abortions reported for page Age under 15
+page_45_O | the number of abortions reported for page Age 45 and over
+page_10_L | the number of abortions reported for page Age less than 10
+page_1014 | the number of abortions reported for page Age 10-14
+page_40 | the number of abortions reported for page Age 40 years
 
 ## <u>gest Age</u>
  Variable | Definition
 ------------- | -------------  
-gest_<6wk_2021	gest_<8wk_2021	gest_7_9_2021	gest_10_13_2021	gest_E_2021	gest_F_2021	gest_G_2021	gest_H_2021	gest_I_2021	gest_J_2021	gest_K_2021	gest_L_2021	gest_M_2021	gest_N_2021	gest_O_2021	gest_P_2021	gest_U_2021	gest_<9wk_2021	gest_9_12_2021	gest_13_15_2021	gest_16_20_2021	gest_9_13_2021	gest_14_20_2021	gest_>21wk_2021	gest_13_19_2021	gest_20wk_2021	gest_21_24_2021	gest_25_36_2021	gest_NR_2021	gest_9_10_2021	gest_11_12_2021	gest_13_14_2021	gest_15_17_2021	gest_25_30_2021	gest_31_36_2021	gest_37_O_2021	gest_<7wk_2021	gest_7_8_2021	gest_15_16_2021	gest_17_20_2021	gest_12_U_2021	gest_13_O_2021	gest_over_20_2021	gest_13_24_2021	gest_25_O_2021	gest_4_L_2021	gest_13_M_2021	gest_6_2021	gest_7_2021	gest_8_2021	gest_9_2021	gest_10_2021	gest_11_2021	gest_12_2021	gest_13_2021	gest_14_2021	gest_15_2021	gest_16_2021	gest_U5_2021	gest_5_6_2021	gest_15_20_2021	gest_21_O_2021	gest_3_U_2021	gest_3_2021	gest_17_2021	gest_18_2021	gest_19_2021	gest_20_2021	gest_21_2021	gest_9_L_2021	gest_13_16_2021	gest_17_21_2021	gest_22_O_2021	gest_9_13_2021	gest_7_13_2021	gest_14_19_2021	gest_20_23_2021	gest_24+_2021	gest_NS_2021	gest_13_15_2021	gest_16_20_2021	gest_21_24_2021	gest_25_30_2021	gest_31_36_2021	gest_6_2021	gest_6_8_2021	gest_9_10_2021	gest_11_12_2021	gest_13_14_2021	gest_15_20_2021	gest_21_M_2021	gest_21_25_2021	gest_26_M_2021	gest_21wk_2021	gest_<=6wk_2021	gest_>=21wk_2021	gest_8_U_2021	gest_8_11_2021	gest_12_15_2021	gest_16+_2021	gest_20+_2021	gest_1_8_2021	gest_16_19_2021	
+gest_<6wk | the number of abortions reported for gest Age
+gest_<8wk_2021	gest_7_9_2021	gest_10_13_2021	gest_E_2021	gest_F_2021	gest_G_2021	gest_H_2021	gest_I_2021	gest_J_2021	gest_K_2021	gest_L_2021	gest_M_2021	gest_N_2021	gest_O_2021	gest_P_2021	gest_U_2021	gest_<9wk_2021	gest_9_12_2021	gest_13_15_2021	gest_16_20_2021	gest_9_13_2021	gest_14_20_2021	gest_>21wk_2021	gest_13_19_2021	gest_20wk_2021	gest_21_24_2021	gest_25_36_2021	gest_NR_2021	gest_9_10_2021	gest_11_12_2021	gest_13_14_2021	gest_15_17_2021	gest_25_30_2021	gest_31_36_2021	gest_37_O_2021	gest_<7wk_2021	gest_7_8_2021	gest_15_16_2021	gest_17_20_2021	gest_12_U_2021	gest_13_O_2021	gest_over_20_2021	gest_13_24_2021	gest_25_O_2021	gest_4_L_2021	gest_13_M_2021	gest_6_2021	gest_7_2021	gest_8_2021	gest_9_2021	gest_10_2021	gest_11_2021	gest_12_2021	gest_13_2021	gest_14_2021	gest_15_2021	gest_16_2021	gest_U5_2021	gest_5_6_2021	gest_15_20_2021	gest_21_O_2021	gest_3_U_2021	gest_3_2021	gest_17_2021	gest_18_2021	gest_19_2021	gest_20_2021	gest_21_2021	gest_9_L_2021	gest_13_16_2021	gest_17_21_2021	gest_22_O_2021	gest_9_13_2021	gest_7_13_2021	gest_14_19_2021	gest_20_23_2021	gest_24+_2021	gest_NS_2021	gest_13_15_2021	gest_16_20_2021	gest_21_24_2021	gest_25_30_2021	gest_31_36_2021	gest_6_2021	gest_6_8_2021	gest_9_10_2021	gest_11_12_2021	gest_13_14_2021	gest_15_20_2021	gest_21_M_2021	gest_21_25_2021	gest_26_M_2021	gest_21wk_2021	gest_<=6wk_2021	gest_>=21wk_2021	gest_8_U_2021	gest_8_11_2021	gest_12_15_2021	gest_16+_2021	gest_20+_2021	gest_1_8_2021	gest_16_19_2021	
 
 ## <u>Education</u>
  Variable | Definition
