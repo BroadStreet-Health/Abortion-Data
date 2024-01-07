@@ -6,8 +6,8 @@ This folders contains demogrphic data and the different variables is shown as br
 ## <u>Race</u>
  Variable | Definition
 ------------- | ------------- 
-|race_API | the number of abortions reported for race API|
-|race_AAA | the number of abortions reported for race African Americans|
+|race_API | the number of abortions reported for API race|
+|race_AA | the number of abortions reported for African Americans race|
 |race_AN | the number of abortions reported for Alaska Native race|
 |race_AI | the number of abortions reported for American Indian race|
 |race_A | the number of abortions reported for Asian race|
@@ -34,9 +34,10 @@ This folders contains demogrphic data and the different variables is shown as br
 |race_AI | the number of abortions reported for Aleutian Islander race|
 |race_O | the number of abortions reported for other race|
 |race_M | the number of abortions reported for multiracial race|
+race_AP | the number of abortions reported for Asian and Pacific islander
 |race_B/AA | the number of abortions reported for Black/African American race|
-|race_NR | the number of abortions with no race reported|
-|race_N.S. |- |
+|race_NR | the number of abortions reported for people with no race indicated|
+|race_N.S. |the number of abortions reported for N.S|
 |race_ONH | the number of abortions reported for other Non-Hispanic race|
 |race_WNH | the number of abortions reported for White Non Hispanic race|
 |race_BNH | the number of abortions reported for Black Non-Hispanic race|
@@ -59,13 +60,56 @@ This folders contains demogrphic data and the different variables is shown as br
 |race_AH | the number of abortions reported for Asian Hispanic race|
 |race_ANH | the number of abortions reported for Asian Non-Hispanic race|
 
-  2. Ethnicity
-  3. page Age
-  4. gest Age
-  5. Education
-  6. Procedure Type
-  7. Marital Status
-  8. PPF Age
-  9. Previous ITOP County
-  10. Previous Live Birth Count
-  11. Residence vs Occurence
+## <u>Ethnicity</u>
+ Variable | Definition
+------------- | ------------- 
+ethn_A | the number of abortions reported for Asian
+ethn_B | the number of abortions reported for Black
+ethn_CA | the number of abortions reported for Caucasian
+ethn_CH | the number of abortions reported for Chinese
+ethn_F | the number of abortions reported for Filipino
+ethn_H | the number of abortions reported for Hispanic
+ethn_J | the number of abortions reported for Japanese
+ethn_L | the number of abortions reported for Latino
+ethn_NHaw | the number of abortions reported for Native Hawaiin
+ethn_NH | the number of abortions reported for Non-Hispanic
+ethn_NL | the number of abortions reported for Non-Latino
+ethn_PI | the number of abortions reported for Pacific Islander
+ethn_W | the number of abortions reported for White
+ethn_Unk | the number of abortions reported for	Unknown Ethnicity 
+ethn_NR | the number of abortions reported for Ethnicity Not reported 
+ethn_HO | the number of abortions reported for Hispanic origin
+ethn_ND | the number of abortions reported for	No data found for Ethnicity
+ethn_HOTH | the number of abortions reported for Hispanic and other
+ethn_NS | the number of abortions reported for	Ethnicity Not Stated
+ethn_HL | the number of abortions reported for Hispanic/Latina
+ethn_NHL | the number of abortions reported for Not Hispanic/Latina
+
+## <u>page Age</u>
+ Variable | Definition
+------------- | -------------  
+
+## <u>page Age</u>
+ Variable | Definition
+------------- | -------------  gest Age
+## <u>page Age</u>
+ Variable | Definition
+------------- | -------------   Education
+## <u>page Age</u>
+ Variable | Definition
+------------- | -------------   Procedure Type
+## <u>page Age</u>
+ Variable | Definition
+------------- | -------------   Marital Status
+## <u>page Age</u>
+ Variable | Definition
+------------- | -------------   PPF Age
+## <u>page Age</u>
+ Variable | Definition
+------------- | -------------   Previous ITOP County
+## <u>page Age</u>
+ Variable | Definition
+------------- | -------------  Previous Live Birth Count
+## <u>page Age</u>
+ Variable | Definition
+------------- | -------------  Residence vs Occurence
