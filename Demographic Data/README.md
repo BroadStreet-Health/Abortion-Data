@@ -148,13 +148,119 @@ page_40 | the number of abortions reported for page Age 40 years
 ## <u>gest Age</u>
  Variable | Definition
 ------------- | -------------  
-gest_<6wk | the number of abortions reported for gest Age
-gest_<8wk_2021	gest_7_9_2021	gest_10_13_2021	gest_E_2021	gest_F_2021	gest_G_2021	gest_H_2021	gest_I_2021	gest_J_2021	gest_K_2021	gest_L_2021	gest_M_2021	gest_N_2021	gest_O_2021	gest_P_2021	gest_U_2021	gest_<9wk_2021	gest_9_12_2021	gest_13_15_2021	gest_16_20_2021	gest_9_13_2021	gest_14_20_2021	gest_>21wk_2021	gest_13_19_2021	gest_20wk_2021	gest_21_24_2021	gest_25_36_2021	gest_NR_2021	gest_9_10_2021	gest_11_12_2021	gest_13_14_2021	gest_15_17_2021	gest_25_30_2021	gest_31_36_2021	gest_37_O_2021	gest_<7wk_2021	gest_7_8_2021	gest_15_16_2021	gest_17_20_2021	gest_12_U_2021	gest_13_O_2021	gest_over_20_2021	gest_13_24_2021	gest_25_O_2021	gest_4_L_2021	gest_13_M_2021	gest_6_2021	gest_7_2021	gest_8_2021	gest_9_2021	gest_10_2021	gest_11_2021	gest_12_2021	gest_13_2021	gest_14_2021	gest_15_2021	gest_16_2021	gest_U5_2021	gest_5_6_2021	gest_15_20_2021	gest_21_O_2021	gest_3_U_2021	gest_3_2021	gest_17_2021	gest_18_2021	gest_19_2021	gest_20_2021	gest_21_2021	gest_9_L_2021	gest_13_16_2021	gest_17_21_2021	gest_22_O_2021	gest_9_13_2021	gest_7_13_2021	gest_14_19_2021	gest_20_23_2021	gest_24+_2021	gest_NS_2021	gest_13_15_2021	gest_16_20_2021	gest_21_24_2021	gest_25_30_2021	gest_31_36_2021	gest_6_2021	gest_6_8_2021	gest_9_10_2021	gest_11_12_2021	gest_13_14_2021	gest_15_20_2021	gest_21_M_2021	gest_21_25_2021	gest_26_M_2021	gest_21wk_2021	gest_<=6wk_2021	gest_>=21wk_2021	gest_8_U_2021	gest_8_11_2021	gest_12_15_2021	gest_16+_2021	gest_20+_2021	gest_1_8_2021	gest_16_19_2021	
+gest_<6wk | the number of abortions reported for gest Age <6 weeks
+gest_<8wk | the number of abortions reported for gest Age <8 weeks
+gest_7_9 | the number of abortions reported for gest Age 7-9 weeks
+gest_10_13 | the number of abortions reported for gest Age 10-13 weeks
+gest_E | the number of abortions reported for gest Age 14-15 weeks
+gest_F | the number of abortions reported for gest Age 16-17 weeks
+gest_G | the number of abortions reported for gest Age 18-20 weeks
+gest_H | the number of abortions reported for gest Age 21+ weeks
+gest_I | the number of abortions reported for gest Age 22-24 weeks
+gest_J | the number of abortions reported for gest Age 25-27 weeks
+gest_K | the number of abortions reported for gest Age 28+ weeks
+gest_L | the number of abortions reported for gest Age 28-31 weeks
+gest_M | the number of abortions reported for gest Age 32-36 weeks
+gest_N | the number of abortions reported for gest Age 37-39 weeks
+gest_O | the number of abortions reported for gest Age 40-41 weeks
+gest_P | the number of abortions reported for gest Age 42+ weeks
+gest_U | the number of abortions reported for Unknown gest Age 
+gest_<9wk | the number of abortions reported for gest Age <9 weeks
+gest_9_12 | the number of abortions reported for gest Age 9-12 weeks
+gest_13_15 | the number of abortions reported for gest Age 13-15 weeks
+gest_16_20 | the number of abortions reported for gest Age 16-20 weeks
+gest_9_13 | the number of abortions reported for gest Age 9-13 weeks
+gest_14_20 | the number of abortions reported for gest Age 14-20 weeks
+gest_>21wk | the number of abortions reported for gest Age >21 weeks
+gest_13_19 | the number of abortions reported for gest Age 13-19 weeks
+gest_20wk | the number of abortions reported for gest Age 20 weeks
+gest_21_24 | the number of abortions reported for gest Age 21-24 weeks
+gest_25_36 | the number of abortions reported for gest Age 25-36 weeks
+gest_NR | the number of abortions reported for gest Age not reported
+gest_9_10 | the number of abortions reported for gest Age 9-10 weeks
+gest_11_12 | the number of abortions reported for gest Age 11-12 weeks
+gest_13_14 | the number of abortions reported for gest Age 13-14 weeks 
+gest_15_17 | the number of abortions reported for gest Age 15-17 weeks
+gest_25_30 | the number of abortions reported for gest Age 25-30 weeks
+gest_31_36 | the number of abortions reported for gest Age 31-36 weeks
+gest_37_O | the number of abortions reported for gest Age 37 weeks & over
+gest_<7wk | the number of abortions reported for gest Age < 7 weeks
+gest_7_8 | the number of abortions reported for gest Age 7-8 weeks
+gest_15_16 | the number of abortions reported for gest Age 15-16 weeks
+gest_17_20 | the number of abortions reported for gest Age 17-20 weeks
+gest_12_U | the number of abortions reported for gest Age 12 weeks or under
+gest_13_O | the number of abortions reported for gest Age 13 weeks or over
+gest_over_20 | the number of abortions reported for gest Age over 20
+gest_13_24 | the number of abortions reported for gest Age 13-24
+gest_25_O | the number of abortions reported for gest Age 25 and over
+gest_4_L | the number of abortions reported for gest Age 4 or less
+gest_13_M | the number of abortions reported for gest Age 13 or more
+gest_6 | the number of abortions reported for gest Age 6
+gest_7 | the number of abortions reported for gest Age 7
+gest_8 | the number of abortions reported for gest Age 8
+gest_9 | the number of abortions reported for gest Age 9
+gest_10 | the number of abortions reported for gest Age 10
+gest_11 | the number of abortions reported for gest Age 11
+gest_12 | the number of abortions reported for gest Age 12
+gest_13 | the number of abortions reported for gest Age 13
+gest_14 | the number of abortions reported for gest Age 14
+gest_15 | the number of abortions reported for gest Age 15
+gest_16 | the number of abortions reported for gest Age 16
+gest_U5 | the number of abortions reported for gest Age Under 5
+gest_5_6 | the number of abortions reported for gest Age 5-6
+gest_15_20 | the number of abortions reported for gest Age 15-20
+gest_21_O | the number of abortions reported for gest Age 21 and over
+gest_3_U | the number of abortions reported for gest Age
+gest_3 | the number of abortions reported for gest Age
+gest_17 | the number of abortions reported for gest Age
+gest_18 | the number of abortions reported for gest Age
+gest_19 | the number of abortions reported for gest Age
+gest_20 | the number of abortions reported for gest Age
+gest_21 | the number of abortions reported for gest Age
+gest_9_L | the number of abortions reported for gest Age
+gest_13_16 | the number of abortions reported for gest Age
+gest_17_21 | the number of abortions reported for gest Age
+gest_22_O | the number of abortions reported for gest Age
+gest_9_13 | the number of abortions reported for gest Age
+gest_7_13 | the number of abortions reported for gest Age
+gest_14_19 | the number of abortions reported for gest Age
+gest_20_23 | the number of abortions reported for gest Age
+gest_24+ | the number of abortions reported for gest Age
+gest_NS | the number of abortions reported for gest Age
+gest_13_15 | the number of abortions reported for gest Age
+gest_16_20 | the number of abortions reported for gest Age
+gest_21_24 | the number of abortions reported for gest Age
+gest_25_30 | the number of abortions reported for gest Age
+gest_31_36 | the number of abortions reported for gest Age
+gest_6 | the number of abortions reported for gest Age
+gest_6_8 | the number of abortions reported for gest Age
+gest_9_10 | the number of abortions reported for gest Age
+gest_11_12 | the number of abortions reported for gest Age
+gest_13_14 | the number of abortions reported for gest Age
+gest_15 | the number of abortions reported for gest Age
+gest_21_M | the number of abortions reported for gest Age
+gest_21_25 | the number of abortions reported for gest Age
+gest_26_M | the number of abortions reported for gest Age	
+gest_21wk | the number of abortions reported for gest Age
+gest_<=6wk | the number of abortions reported for gest Age
+gest_>=21wk | the number of abortions reported for gest Age
+gest_8_U | the number of abortions reported for gest Age
+gest_8_11 | the number of abortions reported for gest Age
+gest_12_15 | the number of abortions reported for gest Age
+gest_16+ | the number of abortions reported for gest Age
+gest_20+ | the number of abortions reported for gest Age
+gest_1_8 | the number of abortions reported for gest Age
+gest_16_19 | the number of abortions reported for gest Age	
 
 ## <u>Education</u>
  Variable | Definition
 ------------- | -------------   
-edu_gr1_8_2021	edu_gr9_12_2021	edu_HS/GED_2021	edu_SCND_2021	education-AD_2021	education-BD_2021	education-MD_2021	education-D/PD_2021	education-U_2021	edu_gr8-L_2021	edu_ND_2021	edu_LTHS_2021	edu_MTHS_2021	edu_A_2021	edu_gr1_6_2021	edu_gr7_9_2021	edu_gr10_11_2021	edu_12_2021	edu_gr13-M_2021	edu_NS_2021	edu_ES_2021	edu_SS_gr1_12_2021	edu_C_1-4_2021	edu_C_5+_2021	edu_gr12-L_2021	edu_HSD_2021	edu_DNGHS_2021	edu_BHS_2021	edu_N/SE_2021	edu_MS_2021	edu_HS/GRE_2021	edu_NR_2021	edu_CD_2021	edu_gr8-L_2021	edu_gr9_11_2021	edu_gr12_2021	edu_gr12_15_2021	edu_gr16-M_2021	edu_U12_2021	edu_O12_2021	edu_4YCD_2021	edu_GLD_2021	edu_SC/H_2021	edu_HSG-L_2021	edu_SC-ND_2021	edu_VT_2021	edu_TC_2021	edu_HS/GED_2021	edu_SC_2021	edu_CG_2021	edu_gr9_12-ND_2021	edu_SCC_2021	edu_BD_2021	edu_gr0_8_2021	edu_gr9_11_2021	edu_gr13_15_2021	edu_gr16-M_2021	edu_U12-2010_2021	edu_<gr9_2021	edu_gr9_2021	edu_gr10_2021	edu_gr11_2021	edu_C1_2021	edu_C2_2021	edu_C3_2021	edu_C4+_2021	
+edu_gr1_8 | the number of abortions reported for 
+edu_gr9_12 | the number of abortions reported for 
+edu_HS/GED | the number of abortions reported for 
+edu_SCND | the number of abortions reported for 
+education-AD | the number of abortions reported for 
+education-BD_2021	education-MD_2021	education-D/PD_2021	education-U_2021	edu_gr8-L_2021	edu_ND_2021	edu_LTHS_2021	edu_MTHS_2021	edu_A_2021	edu_gr1_6_2021	edu_gr7_9_2021	edu_gr10_11_2021	edu_12_2021	edu_gr13-M_2021	edu_NS_2021	edu_ES_2021	edu_SS_gr1_12_2021	edu_C_1-4_2021	edu_C_5+_2021	edu_gr12-L_2021	edu_HSD_2021	edu_DNGHS_2021	edu_BHS_2021	edu_N/SE_2021	edu_MS_2021	edu_HS/GRE_2021	edu_NR_2021	edu_CD_2021	edu_gr8-L_2021	edu_gr9_11_2021	edu_gr12_2021	edu_gr12_15_2021	edu_gr16-M_2021	edu_U12_2021	edu_O12_2021	edu_4YCD_2021	edu_GLD_2021	edu_SC/H_2021	edu_HSG-L_2021	edu_SC-ND_2021	edu_VT_2021	edu_TC_2021	edu_HS/GED_2021	edu_SC_2021	edu_CG_2021	edu_gr9_12-ND_2021	edu_SCC_2021	edu_BD_2021	edu_gr0_8_2021	edu_gr9_11_2021	edu_gr13_15_2021	edu_gr16-M_2021	edu_U12-2010_2021	edu_<gr9_2021	edu_gr9_2021	edu_gr10_2021	edu_gr11_2021	edu_C1_2021	edu_C2_2021	edu_C3_2021	edu_C4+_2021	
 
 ## <u>Procedure Type</u>
  Variable | Definition
