@@ -1,6 +1,6 @@
 # <u>Demographic Data</u>
 
-This folders contains demogrphic data and the different variables is shown as breakdown below:
+This folders contains abortion data breakdown by different demogrphic variables. The variables is shown below:
 
 
 ## <u>Race</u>
@@ -210,60 +210,60 @@ gest_U5 | the number of abortions reported for gest Age Under 5
 gest_5_6 | the number of abortions reported for gest Age 5-6
 gest_15_20 | the number of abortions reported for gest Age 15-20
 gest_21_O | the number of abortions reported for gest Age 21 and over
-gest_3_U | the number of abortions reported for gest Age
-gest_3 | the number of abortions reported for gest Age
-gest_17 | the number of abortions reported for gest Age
-gest_18 | the number of abortions reported for gest Age
-gest_19 | the number of abortions reported for gest Age
-gest_20 | the number of abortions reported for gest Age
-gest_21 | the number of abortions reported for gest Age
-gest_9_L | the number of abortions reported for gest Age
-gest_13_16 | the number of abortions reported for gest Age
-gest_17_21 | the number of abortions reported for gest Age
-gest_22_O | the number of abortions reported for gest Age
-gest_9_13 | the number of abortions reported for gest Age
-gest_7_13 | the number of abortions reported for gest Age
-gest_14_19 | the number of abortions reported for gest Age
-gest_20_23 | the number of abortions reported for gest Age
-gest_24+ | the number of abortions reported for gest Age
-gest_NS | the number of abortions reported for gest Age
-gest_13_15 | the number of abortions reported for gest Age
-gest_16_20 | the number of abortions reported for gest Age
-gest_21_24 | the number of abortions reported for gest Age
-gest_25_30 | the number of abortions reported for gest Age
-gest_31_36 | the number of abortions reported for gest Age
-gest_6 | the number of abortions reported for gest Age
-gest_6_8 | the number of abortions reported for gest Age
-gest_9_10 | the number of abortions reported for gest Age
-gest_11_12 | the number of abortions reported for gest Age
-gest_13_14 | the number of abortions reported for gest Age
-gest_15 | the number of abortions reported for gest Age
-gest_21_M | the number of abortions reported for gest Age
-gest_21_25 | the number of abortions reported for gest Age
-gest_26_M | the number of abortions reported for gest Age	
-gest_21wk | the number of abortions reported for gest Age
-gest_<=6wk | the number of abortions reported for gest Age
-gest_>=21wk | the number of abortions reported for gest Age
-gest_8_U | the number of abortions reported for gest Age
-gest_8_11 | the number of abortions reported for gest Age
-gest_12_15 | the number of abortions reported for gest Age
-gest_16+ | the number of abortions reported for gest Age
-gest_20+ | the number of abortions reported for gest Age
-gest_1_8 | the number of abortions reported for gest Age
-gest_16_19 | the number of abortions reported for gest Age	
+gest_3_U | the number of abortions reported for gest Age under 3
+gest_3 | the number of abortions reported for gest Age 3
+gest_17 | the number of abortions reported for gest Age 17
+gest_18 | the number of abortions reported for gest Age 18
+gest_19 | the number of abortions reported for gest Age 19
+gest_20 | the number of abortions reported for gest Age 20
+gest_21 | the number of abortions reported for gest Age 21
+gest_9_L | the number of abortions reported for gest Age less than 9 weeks
+gest_13_16 | the number of abortions reported for gest Age 13-16
+gest_17_21 | the number of abortions reported for gest Age 17-21
+gest_22_O | the number of abortions reported for gest Age 22 weeks and over
+gest_9_13 | the number of abortions reported for gest Age 9-13 weeks
+gest_7_13 | the number of abortions reported for gest Age 7-13weeks
+gest_14_19 | the number of abortions reported for gest Age 14-19weeks
+gest_20_23 | the number of abortions reported for gest Age 20-23 weeks
+gest_24+ | the number of abortions reported for gest Age 24+
+gest_NS | the number of abortions reported for gest Age not stated	
+gest_13_15 | the number of abortions reported for gest Age 13-15 weeks
+gest_16_20 | the number of abortions reported for gest Age 16-20 weeks
+gest_21_24 | the number of abortions reported for gest Age 21-24 weeks
+gest_25_30 | the number of abortions reported for gest Age 25-30
+gest_31_36 | the number of abortions reported for gest Age  weeks	31-36 
+gest_6 | the number of abortions reported for gest Age weeks	37+
+gest_6_8 | the number of abortions reported for gest Age 	6-8
+gest_9_10 | the number of abortions reported for gest Age 9-10	
+gest_11_12 | the number of abortions reported for gest Age 11-12		
+gest_13_14 | the number of abortions reported for gest Age 13-14
+gest_15_20 | the number of abortions reported for gest Age 15-20
+gest_21_M | the number of abortions reported for gest Age 21 or more
+gest_21_25 | the number of abortions reported for gest Age 21-25 weeks
+gest_26_M | the number of abortions reported for gest Age	26 weeks or more
+gest_21wk | the number of abortions reported for gest Age 21 weeks
+gest_<=6wk | the number of abortions reported for gest Age <=6 weeks
+gest_>=21wk | the number of abortions reported for gest Age >=21 weeks
+gest_8_U | the number of abortions reported for gest Age 8 and under 
+gest_8_11 | the number of abortions reported for gest Age 8-11
+gest_12_15 | the number of abortions reported for gest Age 12-15	
+gest_16+ | the number of abortions reported for gest Age 16+	
+gest_20+ | the number of abortions reported for gest Age 20+	
+gest_1_8 | the number of abortions reported for gest Age 1-8 weeks 
+gest_16_19 | the number of abortions reported for gest Age	16-19
 
 ## <u>Education</u>
  Variable | Definition
 ------------- | -------------   
-edu_gr1_8 | the number of abortions reported for 
-edu_gr9_12 | the number of abortions reported for 
-edu_HS/GED | the number of abortions reported for 
-edu_SCND | the number of abortions reported for 
-education-AD | the number of abortions reported for 
-education-BD| the number of abortions reported for 
-education-MD| the number of abortions reported for 
-education-D/PD| the number of abortions reported for 
-education-U| the number of abortions reported for 
+edu_gr1_8 | the number of abortions reported for Grades 1-8
+edu_gr9_12 | the number of abortions reported for Grades 9-12
+edu_HS/GED | the number of abortions reported for High School Graduate/GED
+edu_SCND | the number of abortions reported for Some College, No Degree
+education-AD | the number of abortions reported for Associate's Degree
+education-BD| the number of abortions reported for Bachelor's Degree
+education-MD| the number of abortions reported for Master's Degree
+education-D/PD| the number of abortions reported for Doctorate/ Professional Degree
+education-U| the number of abortions reported for Unknown Education
 edu_gr8-L| the number of abortions reported for 
 edu_ND| the number of abortions reported for 
 edu_LTHS| the number of abortions reported for 
@@ -325,68 +325,87 @@ edu_C4+| the number of abortions reported for
 ## <u>Procedure Type</u>
  Variable | Definition
 ------------- | -------------   
-proc_dig| the number of abortions reported for 
-proc_d&c| the number of abortions reported for 
-proc_d&eva| the number of abortions reported for 
-proc_d&ext| the number of abortions reported for 
-proc_H1| the number of abortions reported for 
-proc_H2| the number of abortions reported for 
-proc_IA| the number of abortions reported for 
-proc_IL| the number of abortions reported for 
-proc_IUI| the number of abortions reported for 
-proc_II| the number of abortions reported for 
-proc_MN| the number of abortions reported for 
-proc_MI| the number of abortions reported for 
-proc_M1| the number of abortions reported for 
-proc_M2| the number of abortions reported for 
-proc_M3| the number of abortions reported for 
-proc_O| the number of abortions reported for 
-proc_PB| the number of abortions reported for 
-proc_P| the number of abortions reported for 
-proc_S| the number of abortions reported for 
-proc_SharpC| the number of abortions reported for 
-proc_SuctionC| the number of abortions reported for 
-proc_VP| the number of abortions reported for 
-proc_U| the number of abortions reported for 
-proc_MA| the number of abortions reported for 
-proc_MVA| the number of abortions reported for 
-proc_EVA| the number of abortions reported for 
-proc_CIA| the number of abortions reported for 
-proc_IA| the number of abortions reported for 
-proc_IAWIAI| the number of abortions reported for 
-proc_IAO| the number of abortions reported for 
-proc_MNL| the number of abortions reported for 
-proc_NS| the number of abortions reported for 
-proc_I/IA(S)| the number of abortions reported for 
-proc_NDF| the number of abortions reported for 
-proc_CI| the number of abortions reported for 
-proc_Surg| the number of abortions reported for 
-proc_SFF/ICIA| the number of abortions reported for 
-proc_S+C| the number of abortions reported for 
-proc_SI| the number of abortions reported for 
-proc_Medical| the number of abortions reported for 
-proc_PBP| the number of abortions reported for 
-proc_OI| the number of abortions reported for 
-proc_Spon| the number of abortions reported for 
-proc_H/H| the number of abortions reported for 
-proc_I| the number of abortions reported for 
-proc_M/S| the number of abortions reported for 
-proc_SA| the number of abortions reported for 
-proc_RU_486| the number of abortions reported for 
-proc_LD&E| the number of abortions reported for 
-proc_Suct| the number of abortions reported for 
-proc_OM| the number of abortions reported for 
-proc_UM| the number of abortions reported for 
-proc_SC| the number of abortions reported for 
-proc_O/I| the number of abortions reported for 
-proc_A| the number of abortions reported for 
-proc_SC/E| the number of abortions reported for 
-proc_E| the number of abortions reported for 
+proc_dig| the number of abortions reported for Digoxin
+proc_d&c| the number of abortions reported for Dilation and Curretage
+proc_d&eva| the number of abortions reported for Dilation and Evacuation
+proc_d&ext| the number of abortions reported for Dilation and Extraction
+proc_H1| the number of abortions reported for Hysterectomy
+proc_H2| the number of abortions reported for Hysterotomy
+proc_IA| the number of abortions reported for Induction Abortion
+proc_IL| the number of abortions reported for Insertion/Laminaria
+proc_IUI| the number of abortions reported for Intra-Uterine Instillation
+proc_II| the number of abortions reported for Intrauterine Instillation
+proc_MN| the number of abortions reported for Medical (Nonsurgical)
+proc_MI| the number of abortions reported for Medication Induced
+proc_M1| the number of abortions reported for Methotrexate
+proc_M2| the number of abortions reported for Mifepristone
+proc_M3| the number of abortions reported for Misoprostol (Cytotec)
+proc_O| the number of abortions reported for Other Procedure
+proc_PB| the number of abortions reported for Partial Birth
+proc_P| the number of abortions reported for Prostaglandin
+proc_S| the number of abortions reported for Saline
+proc_SharpC| the number of abortions reported for Sharp Curettage
+proc_SuctionC| the number of abortions reported for Suction Curettage
+proc_VP| the number of abortions reported for Vaginal Prostaglandin
+proc_U| the number of abortions reported for Unknown Procedure
+proc_MA| the number of abortions reported for Menstrual Aspiration 
+proc_MVA| the number of abortions reported for Manual Vacuum Aspiration
+proc_EVA| the number of abortions reported for Electrical Vacuum Aspiation
+proc_CIA| the number of abortions reported for Combined Induction Abortion
+proc_IA| the number of abortions reported for Induction Abortion
+proc_IAWIAI| the number of abortions reported for Induction abortion with intra-amniotic installation (such as saline or urea)
+proc_IAO| the number of abortions reported for Induction abortion - other Procedure
+proc_MNL| the number of abortions reported for Method not listed
+proc_NS| the number of abortions reported for Procedure Not stated
+proc_I/IA(S)| the number of abortions reported for Insertion/Intra-amniotic (saline)
+proc_NDF| the number of abortions reported for No data found
+proc_CI| the number of abortions reported for Chemical induced
+proc_Surg| the number of abortions reported for Surgical
+proc_SFF/ICIA| the number of abortions reported for Surgical following failed or incomplete chemically induced abortion
+proc_S+C| the number of abortions reported for Suction and Curretage
+proc_SI| the number of abortions reported for Saline Injection
+proc_Medical| the number of abortions reported for Medical Procedure
+proc_PBP| the number of abortions reported for Partial Birth Procedure
+proc_OI| the number of abortions reported for Other induced Procedure
+proc_Spon| the number of abortions reported for Spontaneous
+proc_H/H| the number of abortions reported for Hysterotomy/Hysterectomy
+proc_I| the number of abortions reported for Incineration
+proc_M/S| the number of abortions reported for Medical/Surgical
+proc_SA| the number of abortions reported for Suction Aspiration
+proc_RU_486| the number of abortions reported for RU-486
+proc_LD&E| the number of abortions reported for Laminaria D&E
+proc_Suct| the number of abortions reported for Suction
+proc_OM| the number of abortions reported for Other Methods
+proc_UM| the number of abortions reported for unknown methods
+proc_SC| the number of abortions reported for Sharp Curettage
+proc_O/I| the number of abortions reported for Oral/Injection
+proc_A| the number of abortions reported for Antiprogestins
+proc_SC/E| the number of abortions reported for Suction curettage/early uterine 
+proc_E| the number of abortions reported for Evacuation
 
 ## <u>Marital Status</u>
  Variable | Definition
 ------------- | -------------   
-ms_D_2021	ms_DP_2021	ms_M_2021	ms_S_2021	ms_W_2021	ms_UNK_2021	ms_UNM_2021	ms_NR_2021	ms_NM_2021	ms_SEP_2021	ms_ND_2021	ms_YES_2021	ms_NO_2021	ms_NS_2021	ms_NOWM_2021	ms_NOTM_2021	ms_CM_2021	ms_FM_2021	ms_UMUS_2021	ms_DD_2021	
+ms_D| the number of abortions reported for 
+ms_DP| the number of abortions reported for 
+ms_M| the number of abortions reported for 
+ms_S| the number of abortions reported for 
+ms_W| the number of abortions reported for 
+ms_UNK| the number of abortions reported for 
+ms_UNM| the number of abortions reported for 
+ms_NR| the number of abortions reported for 
+ms_NM| the number of abortions reported for 
+ms_SEP| the number of abortions reported for 
+ms_ND| the number of abortions reported for 
+ms_YES| the number of abortions reported for 
+ms_NO| the number of abortions reported for 
+ms_NS| the number of abortions reported for 
+ms_NOWM| the number of abortions reported for 
+ms_NOTM| the number of abortions reported for 
+ms_CM| the number of abortions reported for 
+ms_FM| the number of abortions reported for 
+ms_UMUS| the number of abortions reported for 
+ms_DD| the number of abortions reported for 
 
 ## <u>PPF Age</u>
  Variable | Definition
@@ -434,12 +453,57 @@ ppf_NA| the number of abortions reported for
 ## <u>Previous ITOP County</u>
  Variable | Definition
 ------------- | -------------   
-itop_0_2021	itop_1_2021	itop_2_2021	itop_3_2021	itop_4_2021	itop_5_2021	itop_5+_2021	itop_UNK_2021	itop_4+_2021	itop_2+_2021	itop_NON_2021	itop_6_2021	itop_7_2021	itop_8_2021	itop_9MOR_2021	itop_3MOR_2021	itop_ND_2021	itop_NS_2021	itop_NA_2021	itop_>3_2021	itop_3+_2021	itop_NOPR_2021	itop_1PR_2021	itop_2PR_2021	itop_>2PR_2021	itop_6+_2021	
+itop_0| the number of abortions reported for 
+itop_1| the number of abortions reported for 
+itop_2| the number of abortions reported for 
+itop_3| the number of abortions reported for 
+itop_4| the number of abortions reported for 
+itop_5| the number of abortions reported for 
+itop_5+| the number of abortions reported for 
+itop_UNK| the number of abortions reported for 
+itop_4+| the number of abortions reported for 
+itop_2+| the number of abortions reported for 
+itop_NON| the number of abortions reported for 
+itop_6| the number of abortions reported for 
+itop_7| the number of abortions reported for 
+itop_8| the number of abortions reported for 
+itop_9MOR| the number of abortions reported for 
+itop_3MOR| the number of abortions reported for 
+itop_ND| the number of abortions reported for 
+itop_NS| the number of abortions reported for 
+itop_NA| the number of abortions reported for 
+itop_>3| the number of abortions reported for 
+itop_3+| the number of abortions reported for 
+itop_NOPR| the number of abortions reported for 
+itop_1PR| the number of abortions reported for 
+itop_2PR| the number of abortions reported for 
+itop_>2PR| the number of abortions reported for 
+itop_6+| the number of abortions reported for 
 
 ## <u>Previous Live Birth Count</u>
  Variable | Definition
 ------------- | -------------  
-plbc_0_2021	plbc_1_2021	plbc_2_2021	plbc_3_2021	plbc_4_2021	plbc_5_2021	plbc_5+_2021	plbc_UNK_2021	plbc_4+_2021	plbc_NON_2021	plbc_6_2021	plbc_7_2021	plbc_8_2021	plbc_9MOR_2021	plbc_1MOR_2021	plbc_ND_2021	plbc_NA_2021	plbc_3+_2021	plbc_NS_2021	plbc_4MOR_2021	plbc_6+_2021
+plbc_0| the number of abortions reported for 
+plbc_1| the number of abortions reported for 
+plbc_2| the number of abortions reported for 
+plbc_3| the number of abortions reported for 
+plbc_4| the number of abortions reported for 
+plbc_5| the number of abortions reported for 
+plbc_5+| the number of abortions reported for 
+plbc_UNK| the number of abortions reported for 
+plbc_4+| the number of abortions reported for 
+plbc_NON| the number of abortions reported for 
+plbc_6| the number of abortions reported for 
+plbc_7| the number of abortions reported for 
+plbc_8| the number of abortions reported for 
+plbc_9MOR| the number of abortions reported for 
+plbc_1MOR| the number of abortions reported for 
+plbc_ND| the number of abortions reported for 
+plbc_NA| the number of abortions reported for 
+plbc_3+| the number of abortions reported for 
+plbc_NS| the number of abortions reported for 
+plbc_4MOR| the number of abortions reported for 
+plbc_6+| the number of abortions reported for 
 
 ## <u>Residence vs Occurence</u>
  Variable | Definition
