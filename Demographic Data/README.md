@@ -264,63 +264,63 @@ education-BD| the number of abortions reported for Bachelor's Degree
 education-MD| the number of abortions reported for Master's Degree
 education-D/PD| the number of abortions reported for Doctorate/ Professional Degree
 education-U| the number of abortions reported for Unknown Education
-edu_gr8-L| the number of abortions reported for 
-edu_ND| the number of abortions reported for 
-edu_LTHS| the number of abortions reported for 
-edu_MTHS| the number of abortions reported for 
-edu_A| the number of abortions reported for 
-edu_gr1_6| the number of abortions reported for 
-edu_gr7_9| the number of abortions reported for 
-edu_gr10_11| the number of abortions reported for 
-edu_12| the number of abortions reported for 
-edu_gr13-M| the number of abortions reported for 
-edu_NS| the number of abortions reported for 
-edu_ES| the number of abortions reported for 
-edu_SS_gr1_12| the number of abortions reported for 
-edu_C_1-4| the number of abortions reported for 
-edu_C_5+| the number of abortions reported for 
-edu_gr12-L| the number of abortions reported for 
-edu_HSD| the number of abortions reported for 
-edu_DNGHS| the number of abortions reported for 
-edu_BHS| the number of abortions reported for 
-edu_N/SE| the number of abortions reported for 
-edu_MS| the number of abortions reported for 
+edu_gr8-L| the number of abortions reported for 8th grade or less
+edu_ND| the number of abortions reported for No dipolma
+edu_LTHS| the number of abortions reported for Less than high school
+edu_MTHS| the number of abortions reported for More than high school
+edu_A| the number of abortions reported for Advanced
+edu_gr1_6| the number of abortions reported for 1-6
+edu_gr7_9| the number of abortions reported for 7-9
+edu_gr10_11| the number of abortions reported for 10-11
+edu_12| the number of abortions reported for 12
+edu_gr13-M| the number of abortions reported for 13 or more
+edu_NS| the number of abortions reported for Not Stated
+edu_ES| the number of abortions reported for Elementary School
+edu_SS_gr1_12| the number of abortions reported for Secondary School 1-12
+edu_C_1-4| the number of abortions reported for College 1-4
+edu_C_5+| the number of abortions reported for College 5+
+edu_gr12-L| the number of abortions reported for 12th Grade or less
+edu_HSD| the number of abortions reported for High School Diploma
+edu_DNGHS| the number of abortions reported for Did not graduate high school
+edu_BHS| the number of abortions reported for Beyond High school
+edu_N/SE| the number of abortions reported for None or some elementary
+edu_MS| the number of abortions reported for Middle school
 edu_HS/GRE| the number of abortions reported for 
-edu_NR| the number of abortions reported for 
-edu_CD| the number of abortions reported for 
-edu_gr8-L| the number of abortions reported for 
-edu_gr9_11| the number of abortions reported for 
-edu_gr12| the number of abortions reported for 
-edu_gr12_15| the number of abortions reported for 
-edu_gr16-M| the number of abortions reported for 
-edu_U12| the number of abortions reported for 
-edu_O12| the number of abortions reported for 
-edu_4YCD| the number of abortions reported for 
-edu_GLD| the number of abortions reported for 
-edu_SC/H| the number of abortions reported for 
-edu_HSG-L| the number of abortions reported for 
-edu_SC-ND| the number of abortions reported for 
-edu_VT| the number of abortions reported for 
-edu_TC| the number of abortions reported for 
-edu_HS/GED| the number of abortions reported for 
-edu_SC| the number of abortions reported for 
-edu_CG| the number of abortions reported for 
-edu_gr9_12-ND| the number of abortions reported for 
-edu_SCC| the number of abortions reported for 
-edu_BD| the number of abortions reported for 
-edu_gr0_8| the number of abortions reported for 
-edu_gr9_11| the number of abortions reported for 
-edu_gr13_15| the number of abortions reported for 
-edu_gr16-M| the number of abortions reported for 
-edu_U12-2010| the number of abortions reported for 
-edu_<gr9| the number of abortions reported for 
-edu_gr9| the number of abortions reported for 
-edu_gr10| the number of abortions reported for 
-edu_gr11| the number of abortions reported for 
-edu_C1| the number of abortions reported for 
-edu_C2| the number of abortions reported for 
-edu_C3| the number of abortions reported for 
-edu_C4+| the number of abortions reported for 
+edu_NR| the number of abortions reported for Education Not reported
+edu_CD| the number of abortions reported for College degree
+edu_gr8-L| the number of abortions reported for grade 8 or less
+edu_gr9_11| the number of abortions reported for grade 9-11
+edu_gr12| the number of abortions reported for grade 12
+edu_gr12_15| the number of abortions reported for grade 13-15
+edu_gr16-M| the number of abortions reported for grade 16 or more
+edu_U12| the number of abortions reported for under11111111A grade 12
+edu_O12| the number of abortions reported for above grade 12
+edu_4YCD| the number of abortions reported for 4 year college degree
+edu_GLD| the number of abortions reported for Graduate level degree
+edu_SC/H| the number of abortions reported for Some college or higher
+edu_HSG-L| the number of abortions reported for High School Graduate or Less
+edu_SC-ND| the number of abortions reported for Some College , but No Degree
+edu_VT| the number of abortions reported for Vo-Tech
+edu_TC| the number of abortions reported for Teacher's Certficate
+edu_HS/GED| the number of abortions reported for HS or GED
+edu_SC| the number of abortions reported for Some College
+edu_CG| the number of abortions reported for College Graduate
+edu_gr9_12-ND| the number of abortions reported for grade 9-12 with no diploma
+edu_SCC| the number of abortions reported for Some College Credit
+edu_BD| the number of abortions reported for Bachelor's degree 
+edu_gr0_8| the number of abortions reported for grade 0-8
+edu_gr9_11| the number of abortions reported for grade 9-11
+edu_gr13_15| the number of abortions reported for grade 13-15
+edu_gr16-M| the number of abortions reported for 16 or more
+edu_U12-2010| the number of abortions reported for Under grade 12 
+edu_<gr9| the number of abortions reported for < grade 9
+edu_gr9| the number of abortions reported for grade 9
+edu_gr10| the number of abortions reported for grade 10
+edu_gr11| the number of abortions reported for grade 11
+edu_C1| the number of abortions reported for 1 year college	
+edu_C2| the number of abortions reported for 2 year college	
+edu_C3| the number of abortions reported for 3 year college	
+edu_C4+| the number of abortions reported for 4+ year college
 
 ## <u>Procedure Type</u>
  Variable | Definition
@@ -386,226 +386,226 @@ proc_E| the number of abortions reported for Evacuation
 ## <u>Marital Status</u>
  Variable | Definition
 ------------- | -------------   
-ms_D| the number of abortions reported for 
-ms_DP| the number of abortions reported for 
-ms_M| the number of abortions reported for 
-ms_S| the number of abortions reported for 
-ms_W| the number of abortions reported for 
-ms_UNK| the number of abortions reported for 
-ms_UNM| the number of abortions reported for 
-ms_NR| the number of abortions reported for 
-ms_NM| the number of abortions reported for 
-ms_SEP| the number of abortions reported for 
-ms_ND| the number of abortions reported for 
-ms_YES| the number of abortions reported for 
-ms_NO| the number of abortions reported for 
-ms_NS| the number of abortions reported for 
-ms_NOWM| the number of abortions reported for 
-ms_NOTM| the number of abortions reported for 
-ms_CM| the number of abortions reported for 
-ms_FM| the number of abortions reported for 
-ms_UMUS| the number of abortions reported for 
-ms_DD| the number of abortions reported for 
+ms_D| the number of abortions reported for Divorced
+ms_DP| the number of abortions reported for Domestic Partnership
+ms_M| the number of abortions reported for Married
+ms_S| the number of abortions reported for Single
+ms_W| the number of abortions reported for Widowed
+ms_UNK| the number of abortions reported for Unknown Marital Status
+ms_UNM| the number of abortions reported for Unmarried
+ms_NR| the number of abortions reported for Marital Status Not Reported
+ms_NM| the number of abortions reported for Never married
+ms_SEP| the number of abortions reported for Separated
+ms_ND| the number of abortions reported for No Marital Status data found
+ms_YES| the number of abortions reported for Yes
+ms_NO| the number of abortions reported for No
+ms_NS| the number of abortions reported for Not stated
+ms_NOWM| the number of abortions reported for Now married
+ms_NOTM| the number of abortions reported for Not married
+ms_CM| the number of abortions reported for Currently Married
+ms_FM| the number of abortions reported for Formely Married
+ms_UMUS| the number of abortions reported for Unmarried/Unspecified
+ms_DD| the number of abortions reported for divorce/dissolution
 
 ## <u>PPF Age</u>
  Variable | Definition
 ------------- | ------------- 
-ppf_<3| the number of abortions reported for 
-ppf_3| the number of abortions reported for 
-ppf_4| the number of abortions reported for 
-ppf_<5| the number of abortions reported for 
-ppf_5| the number of abortions reported for 
-ppf_6| the number of abortions reported for 
-ppf_7| the number of abortions reported for 
-ppf_<8| the number of abortions reported for 
-ppf_8| the number of abortions reported for 
-ppf_9| the number of abortions reported for 
-ppf_10| the number of abortions reported for 
-ppf_11| the number of abortions reported for 
-ppf_12| the number of abortions reported for 
-ppf_13| the number of abortions reported for 
-ppf_14| the number of abortions reported for 
-ppf_15| the number of abortions reported for 
-ppf_16| the number of abortions reported for 
-ppf_17| the number of abortions reported for 
-ppf_18| the number of abortions reported for 
-ppf_19| the number of abortions reported for 
-ppf_20| the number of abortions reported for 
-ppf_21| the number of abortions reported for 
-ppf_22| the number of abortions reported for 
-ppf_23| the number of abortions reported for 
-ppf_24| the number of abortions reported for 
-ppf_25| the number of abortions reported for 
-ppf_26| the number of abortions reported for 
-ppf_26<| the number of abortions reported for 
-ppf_UNK| the number of abortions reported for 
-ppf_AF19| the number of abortions reported for 	
-ppf_6WKL| the number of abortions reported for 
-ppf_ND| the number of abortions reported for 
-ppf_9_10| the number of abortions reported for 
-ppf_11_12| the number of abortions reported for 
-ppf_13_14| the number of abortions reported for 
-ppf_21_25| the number of abortions reported for 
-ppf_26MO| the number of abortions reported for 
-ppf_NS| the number of abortions reported for 
-ppf_NA| the number of abortions reported for 
+ppf_<3| the number of abortions reported for <3 weeks	
+ppf_3| the number of abortions reported for 3 weeks	
+ppf_4| the number of abortions reported for 4 weeks	
+ppf_<5| the number of abortions reported for <5 weeks	
+ppf_5| the number of abortions reported for 5 weeks	
+ppf_6| the number of abortions reported for 6 weeks
+ppf_7| the number of abortions reported for 7 weeks	
+ppf_<8| the number of abortions reported for <8 weeks	
+ppf_8| the number of abortions reported for 8 weeks	
+ppf_9| the number of abortions reported for 9 weeks	
+ppf_10| the number of abortions reported for 10 weeks	
+ppf_11| the number of abortions reported for 11 weeks	
+ppf_12| the number of abortions reported for 12 weeks	
+ppf_13| the number of abortions reported for 13 weeks	
+ppf_14| the number of abortions reported for 14 weeks	
+ppf_15| the number of abortions reported for 15 weeks	
+ppf_16| the number of abortions reported for 16 weeks	
+ppf_17| the number of abortions reported for 17 weeks	
+ppf_18| the number of abortions reported for 18 weeks	
+ppf_19| the number of abortions reported for 19 weeks
+ppf_20| the number of abortions reported for 20 weeks	
+ppf_21| the number of abortions reported for 21 weeks	
+ppf_22| the number of abortions reported for 22 weeks	
+ppf_23| the number of abortions reported for 23 weeks	
+ppf_24| the number of abortions reported for 24 weeks	
+ppf_25| the number of abortions reported for 25 weeks	
+ppf_26| the number of abortions reported for 26 weeks	
+ppf_26<| the number of abortions reported for 26 weeks <	
+ppf_UNK| the number of abortions reported for Unknown
+ppf_AF19| the number of abortions reported for	After 19 completed weeks
+ppf_6WKL| the number of abortions reported for 6 weeks or less
+ppf_ND| the number of abortions reported for No data found
+ppf_9_10| the number of abortions reported for 9-10 weeks
+ppf_11_12| the number of abortions reported for 11-12 weeks
+ppf_13_14| the number of abortions reported for 13-14 weeks
+ppf_21_25| the number of abortions reported for 21-25 weeks
+ppf_26MO| the number of abortions reported for 26 weeks or More
+ppf_NS| the number of abortions reported for Not Stated
+ppf_NA| the number of abortions reported for Not applicable
 
 ## <u>Previous ITOP County</u>
  Variable | Definition
 ------------- | -------------   
-itop_0| the number of abortions reported for 
-itop_1| the number of abortions reported for 
-itop_2| the number of abortions reported for 
-itop_3| the number of abortions reported for 
-itop_4| the number of abortions reported for 
-itop_5| the number of abortions reported for 
-itop_5+| the number of abortions reported for 
-itop_UNK| the number of abortions reported for 
-itop_4+| the number of abortions reported for 
-itop_2+| the number of abortions reported for 
-itop_NON| the number of abortions reported for 
-itop_6| the number of abortions reported for 
-itop_7| the number of abortions reported for 
-itop_8| the number of abortions reported for 
-itop_9MOR| the number of abortions reported for 
-itop_3MOR| the number of abortions reported for 
-itop_ND| the number of abortions reported for 
-itop_NS| the number of abortions reported for 
-itop_NA| the number of abortions reported for 
-itop_>3| the number of abortions reported for 
-itop_3+| the number of abortions reported for 
-itop_NOPR| the number of abortions reported for 
-itop_1PR| the number of abortions reported for 
-itop_2PR| the number of abortions reported for 
-itop_>2PR| the number of abortions reported for 
-itop_6+| the number of abortions reported for 
+itop_0| the number of abortions reported for 0
+itop_1| the number of abortions reported for 1
+itop_2| the number of abortions reported for 2
+itop_3| the number of abortions reported for 3
+itop_4| the number of abortions reported for 4
+itop_5| the number of abortions reported for 5
+itop_5+| the number of abortions reported for 5+
+itop_UNK| the number of abortions reported for Unknown
+itop_4+| the number of abortions reported for 4+
+itop_2+| the number of abortions reported for 2+
+itop_NON| the number of abortions reported for None
+itop_6| the number of abortions reported for 6
+itop_7| the number of abortions reported for 7
+itop_8| the number of abortions reported for 8
+itop_9MOR| the number of abortions reported for 9 or more
+itop_3MOR| the number of abortions reported for 3 or more
+itop_ND| the number of abortions reported for No data found
+itop_NS| the number of abortions reported for Not stated
+itop_NA| the number of abortions reported for N/A
+itop_>3| the number of abortions reported for >3
+itop_3+| the number of abortions reported for 3+
+itop_NOPR| the number of abortions reported for No Previous Induced Abortions
+itop_1PR| the number of abortions reported for One Previous Induced Abortion
+itop_2PR| the number of abortions reported for Two Previous Induced Abortions
+itop_>2PR| the number of abortions reported for More than Two Previous Induced Abortions
+itop_6+| the number of abortions reported for 6+
 
 ## <u>Previous Live Birth Count</u>
  Variable | Definition
 ------------- | -------------  
-plbc_0| the number of abortions reported for 
-plbc_1| the number of abortions reported for 
-plbc_2| the number of abortions reported for 
-plbc_3| the number of abortions reported for 
-plbc_4| the number of abortions reported for 
-plbc_5| the number of abortions reported for 
-plbc_5+| the number of abortions reported for 
-plbc_UNK| the number of abortions reported for 
-plbc_4+| the number of abortions reported for 
-plbc_NON| the number of abortions reported for 
-plbc_6| the number of abortions reported for 
-plbc_7| the number of abortions reported for 
-plbc_8| the number of abortions reported for 
-plbc_9MOR| the number of abortions reported for 
-plbc_1MOR| the number of abortions reported for 
-plbc_ND| the number of abortions reported for 
-plbc_NA| the number of abortions reported for 
-plbc_3+| the number of abortions reported for 
-plbc_NS| the number of abortions reported for 
-plbc_4MOR| the number of abortions reported for 
-plbc_6+| the number of abortions reported for 
+plbc_0| the number of abortions reported for 0
+plbc_1| the number of abortions reported for 1
+plbc_2| the number of abortions reported for 2
+plbc_3| the number of abortions reported for 3
+plbc_4| the number of abortions reported for 4
+plbc_5| the number of abortions reported for 5
+plbc_5+| the number of abortions reported for 5+
+plbc_UNK| the number of abortions reported for Unknown
+plbc_4+| the number of abortions reported for 4+
+plbc_NON| the number of abortions reported for None 
+plbc_6| the number of abortions reported for 6
+plbc_7| the number of abortions reported for 7
+plbc_8| the number of abortions reported for 8
+plbc_9MOR| the number of abortions reported for 9 or more
+plbc_1MOR| the number of abortions reported for 1 or more
+plbc_ND| the number of abortions reported for No data found
+plbc_NA| the number of abortions reported for N/A
+plbc_3+| the number of abortions reported for 3+
+plbc_NS| the number of abortions reported for Not stated
+plbc_4MOR| the number of abortions reported for 4 or more
+plbc_6+| the number of abortions reported for 6+
 
 ## <u>Residence vs Occurence</u>
  Variable | Definition
 ------------- | -------------  
-ro_F| the number of abortions reported for 
-ro_R| the number of abortions reported for 
-ro_NRes| the number of abortions reported for 
-ro_OR| the number of abortions reported for 
-ro_U| the number of abortions reported for 
-ro_NRep| the number of abortions reported for 
-ro_NDF| the number of abortions reported for 
-ro_ISRT| the number of abortions reported for 
-ro_ISO| the number of abortions reported for 
-ro_OOSO| the number of abortions reported for 
-ro_OOST| the number of abortions reported for 
-ro_SOR| the number of abortions reported for 
-ro_MN| the number of abortions reported for 
-ro_ND| the number of abortions reported for 
-ro_SD| the number of abortions reported for 
-ro_AOS| the number of abortions reported for 
-ro_CANA| the number of abortions reported for 
-ro_NS| the number of abortions reported for 
-ro_UTRE| the number of abortions reported for 
-ro_AZ| the number of abortions reported for 
-ro_CA| the number of abortions reported for 
-ro_ID| the number of abortions reported for 
-ro_NV| the number of abortions reported for 
-ro_TEX| the number of abortions reported for 
-ro_WA| the number of abortions reported for 
-ro_WY| the number of abortions reported for 
-ro_OC| the number of abortions reported for 
-ro_OS+T| the number of abortions reported for 
-ro_OCou| the number of abortions reported for 
-ro_WI| the number of abortions reported for 
-ro_IL| the number of abortions reported for 
-ro_MI| the number of abortions reported for 
-ro_Col| the number of abortions reported for 
-ro_Dane| the number of abortions reported for 
-ro_Dodg| the number of abortions reported for 
-ro_Fond| the number of abortions reported for 
-ro_Gree| the number of abortions reported for 
-ro_Jeff| the number of abortions reported for 
-ro_Keno| the number of abortions reported for 
-ro_LaCr| the number of abortions reported for 
-ro_Mani| the number of abortions reported for 
-ro_Milw| the number of abortions reported for 
-ro_Monr| the number of abortions reported for 
-ro_Outa| the number of abortions reported for 
-ro_Port| the number of abortions reported for 
-ro_Raci| the number of abortions reported for 
-ro_Rock| the number of abortions reported for 
-ro_Sauk| the number of abortions reported for 
-ro_Sheb_| the number of abortions reported for 
-ro_Walw| the number of abortions reported for 
-ro_WA| the number of abortions reported for 
-ro_Wauk| the number of abortions reported for 
-ro_Winne| the number of abortions reported for 
-ro_CRBr| the number of abortions reported for 
-ro_OS| the number of abortions reported for 
-ro_MOUW| the number of abortions reported for 
-ro_R| the number of abortions reported for 
-ro_AR| the number of abortions reported for 
-ro_COR| the number of abortions reported for 
-ro_Bake| the number of abortions reported for 
-ro_Bent| the number of abortions reported for 
-ro_Clac| the number of abortions reported for 
-ro_Clat| the number of abortions reported for 
-ro_coos| the number of abortions reported for 
-ro_Croo| the number of abortions reported for 
-ro_curr| the number of abortions reported for 
-ro_Desc| the number of abortions reported for 
-ro_Doug| the number of abortions reported for 
-ro_Gill| the number of abortions reported for 
-ro_Grant| the number of abortions reported for 
-ro_Hame| the number of abortions reported for 
-ro_HR| the number of abortions reported for 
-ro_Jack| the number of abortions reported for 
-ro_Jose| the number of abortions reported for 
-ro_Klam| the number of abortions reported for 
-ro_Lake| the number of abortions reported for 
-ro_Linc| the number of abortions reported for 
-ro_Linn| the number of abortions reported for 
-ro_Malh| the number of abortions reported for 
-ro_Mari| the number of abortions reported for 
-ro_Morr| the number of abortions reported for 
-ro_Mult| the number of abortions reported for 
-ro_Polk| the number of abortions reported for 
-ro_Sher| the number of abortions reported for 
-ro_Tila| the number of abortions reported for 
-ro_Umat| the number of abortions reported for 
-ro_Union| the number of abortions reported for 
-ro_Wall| the number of abortions reported for 
-ro_Wasc| the number of abortions reported for 
-ro_Whee| the number of abortions reported for 
-ro_Yamh| the number of abortions reported for 
-ro_CT| the number of abortions reported for 
-ro_GA| the number of abortions reported for 
-ro_ME| the number of abortions reported for 	
-ro_MA| the number of abortions reported for 
-ro_NH | the number of abortions reported for 
-ro_NY| the number of abortions reported for 
-ro_NC| the number of abortions reported for 
-ro_PA| the number of abortions reported for 
-ro_RI| the number of abortions reported for 
-ro_VT| the number of abortions reported for 
+ro_F| the number of abortions reported for Foreigner
+ro_R| the number of abortions reported for In-state Resident
+ro_NRes| the number of abortions reported for Non-Resident
+ro_OR| the number of abortions reported for Out-of-state Resident
+ro_U| the number of abortions reported for Unknown
+ro_NRep| the number of abortions reported for Not reported
+ro_NDF| the number of abortions reported for No data found
+ro_ISRT| the number of abortions reported for In-state resident total
+ro_ISO| the number of abortions reported for In-state occurance
+ro_OOSO| the number of abortions reported for Out-of-state occurance
+ro_OOST| the number of abortions reported for Out-of-state total
+ro_SOR| the number of abortions reported for Number of abortions by state of residence
+ro_MN| the number of abortions reported for Minnesota
+ro_ND| the number of abortions reported for North Dakota
+ro_SD| the number of abortions reported for South Dakota
+ro_AOS| the number of abortions reported for All other states
+ro_CANA| the number of abortions reported for Canada
+ro_NS| the number of abortions reported for Not stated
+ro_UTRE| the number of abortions reported for Utah residents
+ro_AZ| the number of abortions reported for Arizona
+ro_CA| the number of abortions reported for California	
+ro_ID| the number of abortions reported for Idaho	
+ro_NV| the number of abortions reported for Nevada	
+ro_TEX| the number of abortions reported for Texa	
+ro_WA| the number of abortions reported for Washington	
+ro_WY| the number of abortions reported for Wyoming	
+ro_OC| the number of abortions reported for Other countries
+ro_OS+T| the number of abortions reported for Other states and territories
+ro_OCou| the number of abortions reported for Other countries
+ro_WI| the number of abortions reported for Wisconsin	
+ro_IL| the number of abortions reported for Illinois	
+ro_MI| the number of abortions reported for Michigan	
+ro_Col| the number of abortions reported for Columbia	
+ro_Dane| the number of abortions reported for Dane
+ro_Dodg| the number of abortions reported for Dodge	
+ro_Fond| the number of abortions reported for Fond du Lac	
+ro_Gree| the number of abortions reported for Green	
+ro_Jeff| the number of abortions reported for Jefferson
+ro_Keno| the number of abortions reported for Kenosha	
+ro_LaCr| the number of abortions reported for La Crosse	
+ro_Mani| the number of abortions reported for Manitowoc	
+ro_Milw| the number of abortions reported for Milwaukee	
+ro_Monr| the number of abortions reported for Monroe	
+ro_Outa| the number of abortions reported for Outagamie	
+ro_Port| the number of abortions reported for Portage	
+ro_Raci| the number of abortions reported for Racine	
+ro_Rock| the number of abortions reported for Rock	
+ro_Sauk| the number of abortions reported for Sauk	
+ro_Sheb_| the number of abortions reported for Sheboygan	
+ro_Walw| the number of abortions reported for Walworth	
+ro_WA| the number of abortions reported for Washington	
+ro_Wauk| the number of abortions reported for Waukesha	
+ro_Winne| the number of abortions reported for Winnebago	
+ro_CRBr| the number of abortions reported for County Residence: Brown
+ro_OS| the number of abortions reported for Other states
+ro_MOUW| the number of abortions reported for Abortions out of state: Montana, Oregon, Utah, Washington
+ro_R| the number of abortions reported for Resident
+ro_AR| the number of abortions reported for Arkansas residence
+ro_COR| the number of abortions reported for Country of residence
+ro_Bake| the number of abortions reported for Baker	
+ro_Bent| the number of abortions reported for Benton	
+ro_Clac| the number of abortions reported for Clackamas	
+ro_Clat| the number of abortions reported for Clatsop	
+ro_coos| the number of abortions reported for coos	
+ro_Croo| the number of abortions reported for Crook	
+ro_curr| the number of abortions reported for curry	
+ro_Desc| the number of abortions reported for Deschutes	
+ro_Doug| the number of abortions reported for Douglas	
+ro_Gill| the number of abortions reported for Gilliam	
+ro_Grant| the number of abortions reported for Grant	
+ro_Hame| the number of abortions reported for Hamey	
+ro_HR| the number of abortions reported for Hood River	
+ro_Jack| the number of abortions reported for Jackson	
+ro_Jose| the number of abortions reported for Josephine	
+ro_Klam| the number of abortions reported for Klamath	
+ro_Lake| the number of abortions reported for Lake	
+ro_Linc| the number of abortions reported for Lincoln
+ro_Linn| the number of abortions reported for Linn	
+ro_Malh| the number of abortions reported for Malheur	
+ro_Mari| the number of abortions reported for Marion	
+ro_Morr| the number of abortions reported for Morrow	
+ro_Mult| the number of abortions reported for Multnomah	
+ro_Polk| the number of abortions reported for Polk	
+ro_Sher| the number of abortions reported for Sherman	
+ro_Tila| the number of abortions reported for Tilamook	
+ro_Umat| the number of abortions reported for Umatilla	
+ro_Union| the number of abortions reported for Union	
+ro_Wall| the number of abortions reported for Wallowa	
+ro_Wasc| the number of abortions reported for Wasco	
+ro_Whee| the number of abortions reported for Wheeler	
+ro_Yamh| the number of abortions reported for Yamhill	
+ro_CT| the number of abortions reported for Connecticut	
+ro_GA| the number of abortions reported for Georgia	
+ro_ME| the number of abortions reported for Maine	
+ro_MA| the number of abortions reported for Massachusetts	
+ro_NH | the number of abortions reported for New Hampshire
+ro_NY| the number of abortions reported for New York	
+ro_NC| the number of abortions reported for North Carolina	
+ro_PA| the number of abortions reported for Pennsylvania	
+ro_RI| the number of abortions reported for Rhode Island	
+ro_VT| the number of abortions reported for Vermont
